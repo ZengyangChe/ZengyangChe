@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZengyangChe
-- 👀 I’m interested in AI and GoLang
+- 👀 I’m interested in ML and CV
 - 📫 How to reach me chezengyang@gmail.com
 
 <!---
