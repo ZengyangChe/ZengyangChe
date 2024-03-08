@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZengyangChe
-- 👀 I’m interested in MLLM and Medchine Image AI
+- 👀 I’m interested in Medchine MLLM and Image Generation
 - 📫 How to reach me chezengyang@gmail.com
 
 <!---
