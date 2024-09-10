@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZengyangChe
-- 👀 I’m interested in Medchine MLLM and Image Generation
+- 👀 I’m interested in Multi-modal Medical Analysis
 - 📫 How to reach me chezengyang@gmail.com
 
 <!---
