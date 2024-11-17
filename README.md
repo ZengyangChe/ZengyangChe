@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZengyangChe
+- 👋 Hi, I’m @ZengyangChe(车增阳)
 - 👀 I’m interested in Multi-modal Medical Analysis
 - 📫 How to reach me chezengyang@gmail.com
 
